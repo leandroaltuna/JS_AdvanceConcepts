@@ -1,8 +1,6 @@
 JavaScript Advance Concepts
 
-========================
         Topics
-========================
 
 1. environments
 2. callbacks
